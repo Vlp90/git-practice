@@ -5,3 +5,6 @@ Age: 25
 Favorite Color: Yellow
 
 Et maintenant je rajoute du text pour voir l'ajout en local sur mon ordinateur avec la fonction pull.
+
+Je re test la fonction push une dernière fois avant de me lancer dans des projets.
+
